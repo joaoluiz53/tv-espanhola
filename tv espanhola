@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:0 group-title="TV ESPANHOLA"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="https://ztnr.rtve.es/ztnr/la1_main_720.m3u8",
+#EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/logo/tve-la-2-1?original=1" group-title="https://ztnr.rtve.es/ztnr/stream1_331_4000.m3u8",
+#EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/logo/tve-la-2-1?original=1" group-title="https://rtvelivestreamv3.akamaized.net/la2/la2_main_576.m3u8",
+#EXTINF:-1 tvg-logo="https://www.rtve.es/" group-title="https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8",
+#EXTINF:-1 tvg-logo="https://www.telemadrid.es/" group-title="https://static.vidazoo.com/basev/blank.mp4",
+#EXTINF:-1 tvg-logo="http://www.aragontelevision.es/" group-title="https://streamer97.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?vv=BR&h=RjnBAXGIMfQ730cecikrlQ&e=31363535363633343337&r=4230",
+#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="https://rtv-murcia-live.globalmest.com/stream/abr/first_1080.m3u8",
+#EXTINF:-1 tvg-logo="https://teleonuba.es/wp-content/uploads/2022/06/banner-1170x110-2.jpg" group-title="https://player.wowza.com/player/latest/js/wowzaplayer.js",
+#EXTINF:-1 tvg-logo="https://twitter.com/lebrijatv/photo" group-title="https://s3.amazonaws.com/wcl-wowza-player/prod/latest/js/wowzaplayer.js",
+#EXTINF:-1 tvg-logo="https://www.telebilbao.es/" group-title="https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8",
+#EXTINF:-1 tvg-logo="https://www.telebilbao.es/" group-title="https://player.wowza.com/player/latest/js/wowzaplayer.js",
+#EXTINF:-1 tvg-logo="" group-title="EXEMPLO",
+#EXTINF:-1 tvg-logo="" group-title="EXEMPLO",
+#EXTINF:-1 tvg-logo="" group-title="EXEMPLO",
+#EXTINF:-1 tvg-logo="" group-title="EXEMPLO",
+ 
